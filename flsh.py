@@ -358,4 +358,4 @@ async def inv(ctx):
     await ctx.channel.send('Heres an invite to the flashcards server! https://discord.gg/ahpb74rbD2')
     print(f'{ctx.author} used the invite link!')
 
-bot.run('ODYwOTU1NDE5NDQ1NjkwNDA4.G0dp0b.HZJCWuTSVovfpNC3qKS2ICT0HESvVTcX9Yqa7E')
+bot.run('ODYwOTU1NDE5NDQ1NjkwNDA4.GU7A1s.eef1-Q6JleHo-Es2pTSxvpBIqpJ74lKbbrad50')
