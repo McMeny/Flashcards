@@ -1,1 +1,1 @@
-Worker: python flsh.py
+worker: python flsh.py
