@@ -8,6 +8,8 @@ import csv
 from difflib import SequenceMatcher
 
 bot = commands.Bot(command_prefix = '!')
+intents=discord.Intents.default() 
+
 
 con = sqlite3.connect('q_a.db')
 cur = con.cursor()
