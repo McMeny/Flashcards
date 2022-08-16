@@ -4,7 +4,3 @@ pandas
 numpy
 dnspython==1.16.0
 async-timeout==3.0.1
-SQLAlchemy==1.4.31
-Flask-SQLAlchemy==2.5.1
-discord==1.7.3
-discord.py==1.7.3
